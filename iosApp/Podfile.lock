@@ -1,0 +1,16 @@
+PODS:
+  - CalculatorSample (1.0)
+
+DEPENDENCIES:
+  - CalculatorSample (from `../shared`)
+
+EXTERNAL SOURCES:
+  CalculatorSample:
+    :path: "../shared"
+
+SPEC CHECKSUMS:
+  CalculatorSample: fbee819a64800c598a8aa0803339499ddb7f5616
+
+PODFILE CHECKSUM: 909deb946411a41325f88233bfb67f3309546efb
+
+COCOAPODS: 1.11.3
