@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "KmmProCalculatorSample"
+rootProject.name = "TouchlabProCalculatorSample"
 include(":androidApp")
 include(":shared")
