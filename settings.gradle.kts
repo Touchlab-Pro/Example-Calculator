@@ -14,5 +14,8 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "TouchlabProCalculatorSample"
-include(":androidApp")
-include(":shared")
+
+include(
+    ":androidApp",
+    ":shared"
+)
